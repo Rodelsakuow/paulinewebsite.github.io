@@ -1,0 +1,15 @@
+h1{
+    font-size: 40px;
+    color: #00008b;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #55aa55;
+    font-size: 16px;
+}
+
+.img-girl{
+    width: 800px;
+}
